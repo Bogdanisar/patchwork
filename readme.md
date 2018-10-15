@@ -1,6 +1,6 @@
 # Patchwork
 
-![screenshot]("readmeScreenshot.png")
+![Screenshot](/readmeScreenshot.png?raw=true)
 
 This repository is a website hosted by [GitHub Pages](http://pages.github.com). It goes along with [Git-it](http://www.github.com/jlord/git-it-electron), a desktop application for learning Git and GitHub.
 
